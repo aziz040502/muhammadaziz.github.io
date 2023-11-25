@@ -1,0 +1,22 @@
+body {
+  min-height: 3200px;
+}
+.jumbotron {
+  padding-top: rem;
+  background-color: #e0f4ff;
+}
+
+#documentation {
+  background-color: #e0f4ff;
+}
+footer {
+  background-color: #e0f4ff;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+#content {
+  text-align: justify;
+}
